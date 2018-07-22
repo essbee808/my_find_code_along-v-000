@@ -1,4 +1,5 @@
 require 'pry'
+collection = (1..100).to_a
 
 def my_find(collection)
   i = 0
